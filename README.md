@@ -1,10 +1,10 @@
-<p align="center"><img src="/images/brew.png" alt="Chromebrew logo" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/skycocker/chromebrew/master/images/brew.png" alt="Chromebrew logo" /></p>
 
 <h1 align="center">Chromebrew</h1>
 
 <p align="center">Chromebrew Package files</p>
 
-### Package file protocol.
+### Package file protocol
 
 To add new packages/upgrade packages, submit a package file as a pull request on this repository. When other developers deem it ready, they will merge it into the canary branch.
 
